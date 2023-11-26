@@ -62,23 +62,34 @@ endmodule
 ### Output:
 ### RTL
 Half adder:
+
 ![image](https://github.com/SandhiyaRajagopal/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870852/c9c29bf9-f41a-4e93-a35e-7745e992f48a)
+
+
 Full adder:
+
 ![image](https://github.com/SandhiyaRajagopal/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870852/83b3ac33-0f30-420c-b7ef-f42dac4710f7)
 
 
 ### TIMING DIAGRAM
 Half adder:
+
 ![image](https://github.com/SandhiyaRajagopal/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870852/99bc3527-404b-447b-8487-119491dcb452)
+
+
 Full adder:
+
 ![image](https://github.com/SandhiyaRajagopal/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870852/77272663-1cf8-4df0-8225-ebd0166efcc8)
 
 ### TRUTH TABLE 
 
 Half adder:
+
 ![image](https://github.com/SandhiyaRajagopal/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870852/b1e36a28-ec84-4a81-892f-abd3068a3506)
 
+
 Full adder:
+
 ![image](https://github.com/SandhiyaRajagopal/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/144870852/c62426fb-2720-4842-9c7a-25c6f0bf9aea)
 
 
